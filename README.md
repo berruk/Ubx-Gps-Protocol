@@ -1,2 +1,2 @@
 # Ubx-Gps-Protocol
-Decoding UBX-RXM-SFRBX broadcast navigation data GPS l2 band cnav structure
+Decoding UBX-RXM-SFRBX broadcast navigation data aka the secret to all of universe
